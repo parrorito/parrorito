@@ -17,10 +17,7 @@
   
 <p align="center">
   <img src="https://64.media.tumblr.com/a06163680c14e7e9c1166a64c5af85d1/77595176b8b7c5b9-5d/s250x400/c496da8b4de248db9a03ccb453410916885c8b5b.gifv"
-  
-              
+   
 #
-
- 
+ <p align="left">
 <p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dstyi8gwgu7smen3sn0t721i1&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dstyi8gwgu7smen3sn0t721i1&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=212121&amp;interchange=false&amp;profanity=false&amp;bar_color=ffffff&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p>
-
